@@ -9,4 +9,4 @@ Nagios 4.x
 
 
 
-This is a compilation of  my favorite plugins and custom scripts. 
+This is a compilation of  my favorite Nagios plugins and custom scripts. 
